@@ -1,0 +1,1465 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\branch body_text
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch hidden
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Research Proposal
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch body_text
+inverted 0
+status collapsed
+
+\begin_layout Standard
+To my view, the core interest of chemical engineering lies in creating a
+ world that makes the best possible use of its limited resources.
+ When crude oil was fit for nothing more than fuel, chemical engineers distilled
+ it and processed it into everything from plastics to pharmaceuticals.
+ Over time, chemical engineering has also subsumed special interests in
+ soft matter physics and biological engineering with the same over-arching
+ goal.
+\end_layout
+
+\begin_layout Standard
+In soft matter physics, there are unique opportunities to develop low-cost
+ and high value-added materials by careful engineering at the microstrucutral
+ level.
+ However, there are always at least two major technical obstacles to viable
+ commercial production (1) the material must be processed into the target
+ microsctructure and (2) processing must be sufficiently fast/efficient
+ to keep the operation profitable.
+ Rheology is the sub-discipline of soft matter physics that attends to these
+ challenges, bridging the gap between knowledge of the microstructure and
+ understanding of the bulk flow behavior.
+\end_layout
+
+\begin_layout Standard
+In my research as a rheologist, I am principally concerned with industrially-rel
+evant complex fluids that are already being processed in enormous volumes
+ - hundreds of billions of pounds per year – including commodity polymers
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-1,key-50,key-51,key-52,key-53"
+literal "false"
+
+\end_inset
+
+, dense suspensions 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-54,key-55"
+literal "false"
+
+\end_inset
+
+, and wormlike micelles 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-56,key-57,key-11"
+literal "false"
+
+\end_inset
+
+.
+ Improvements in the way such materials are processed can have enormous
+ market impacts by reducing waste, increasing through-put, and/or enhancing
+ the value of the final product.
+\end_layout
+
+\begin_layout Standard
+Biological engineering is a core discipline in most chemical engineering
+ departments today, but the broader study of biological systems extending
+ to the level of whole ecosystems has recieved comparatively less attention.
+ However, it is my view that the future of chemical engineering must eventually
+ include biological systems engineering at this level.
+ For example, the raw materials for a renewables revolution are primarily
+ going to be sourced from an agricultural system under increasing strain
+ from disease 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-15"
+literal "false"
+
+\end_inset
+
+, pests 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-16"
+literal "false"
+
+\end_inset
+
+, and pollinator decline 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-17"
+literal "false"
+
+\end_inset
+
+.
+ Moreover, current trends in agricultrual expansion and invasive species
+ are stressing the natural ecosystems we rely on for carbon capture, water
+ purification, nutrient cycling, and more 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-18"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+During the COVID-19 pandemic, I helped develop new tools for studying disease
+ transmission in human populations 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-19,key-20,key-21"
+literal "false"
+
+\end_inset
+
+.
+ In my future research, I would like to repurpose these tools to study ecosystem
+s - both natural and agricultural - under stress from disease, invasive
+ species, climate change, and more.
+ Ultimately, ecosystems can be seen as a special kind of reaction/diffusion
+ problem, and as such are well within the core competency of the chemical
+ engineer.
+ But more importantly, maintaining healthy ecosystems is integral to the
+ core interest of chemical engineering as a field: creating a world that
+ makes the best possible use of its limited resources.
+\end_layout
+
+\begin_layout Standard
+With these motivations in mind, I outline three prospective research topics
+ that interest me.
+ First, as a continuation of my PhD and postdoctoral studies, I would like
+ to study competing explanations of 
+\begin_inset Quotes eld
+\end_inset
+
+die drool
+\begin_inset Quotes erd
+\end_inset
+
+ phenomena in polymer extrustion.
+ Second, there is an opportunity to fill a gap between theory and practice
+ for high Reynolds number flows of many complex fluids.
+ Third, I propose an example problem for modeling epizootic controls of
+ invasive species
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+1.
+ Unified model of die drool
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch body_text
+inverted 0
+status collapsed
+
+\begin_layout Standard
+In industry practice, polymer extrusion is often limited by flow instabilities
+ and irregularies that mar the extrudate, including melt fracture and shark-skin
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-22"
+literal "false"
+
+\end_inset
+
+, as well as die drool 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-23"
+literal "false"
+
+\end_inset
+
+.
+ In each case, there are empirical strategies for mitigation, but theoretical
+ understanding is still considered incomplete in many respects.
+ Over the past few decades, there have been remarkable advances in both
+ (1) CFD-friendly and microscopically accurate rheological models 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-51,key-53"
+literal "false"
+
+\end_inset
+
+ and (2) the power of computing resources needed to solve such models.
+ From my experience working with companies like 3M and Unilever, I have
+ seen that the 'trial and error' stage of die design and product formulation
+ is increasingly being shifted towards in-silico experiments.
+ With the tools that I've developed during my PhD and postdoctoral studies,
+ I believe that there is a unique opportunity to build a unified modelling
+ framework to study 'die drool' phenomena in polymer extrusion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0col%
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename die_drool_pic.png
+	lyxscale 38
+	scale 38
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:drool"
+
+\end_inset
+
+Cartoon of die drool accumulating on the face of an extruder
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+In polymer extrusion, 
+\begin_inset Quotes eld
+\end_inset
+
+die drool
+\begin_inset Quotes erd
+\end_inset
+
+ refers to the slow build-up of polymer melt at the die face, as shown in
+ Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:drool"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, and it mars the extrudate when it drips down or chars onto the die face,
+ for example.
+ It is clear from the existing literature that the 
+\begin_inset Quotes eld
+\end_inset
+
+drool
+\begin_inset Quotes erd
+\end_inset
+
+ itself consists of chains that are shorter than those in the main extrudate,
+ but it is not yet clear (1) how those short chains became sequestered at
+ the outermost layer of the flow or (2) why the outermost layer of the flow
+ (comprising mostly short chains) separates from the main extrudate onto
+ the die face.
+ The proposal that I outline here will focus on the first of these two questions
+, but in principal the modelling framework I propose is suitable to consider
+ both questions.
+\end_layout
+
+\begin_layout Standard
+There are two prevailing hypothesis for how short chains become sequestered
+ near the extruder walls: flow induced fractionation and chain degradation
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-23"
+literal "false"
+
+\end_inset
+
+.
+ In one instance, it is hypothesized that gradients in the stress drive
+ long chains to migrate away from the wall, where shear rates are highest
+ [REFS].
+ In the second instance, it is hypothesized that polymer degradation (i.e.
+ long chains breaking into short chains) can be significant near the extruder
+ walls, due to a combination of high shear rates, high temperatures, and
+ long residence times.
+ It is difficult to distinguish between these two hypothesis in an experimental
+ setting, and each of these mechanisms could be dominant depending on the
+ particulars of the melt composition, flow rate, and extruder geometry.
+\end_layout
+
+\begin_layout Standard
+To gain a clearer understanding of die drool phenomena, I want to study
+ a multi-fluid approximation of polydisperse blends with flow-induced scission
+ in an annular flow.
+ This study would combine my PhD work on multi-fluid models of polydisperse
+ blends 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-52,key-53"
+literal "false"
+
+\end_inset
+
+ with my postdoctoral studies of breakable polymer rheology 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-56,key-57"
+literal "false"
+
+\end_inset
+
+.
+ The results of this study would yield both (1) experimentally testable
+ predictions for the extrudate's annular composition and (2) a broader picture
+ for how these two mechanisms contribute (or even interact) to produce die
+ drool under various flow conditions.
+ This study will bring new insights to the mechanism behind 'die drool'
+ formation, and should also provide opportunities to improve existing mitigation
+ strategies.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+2.
+ Reynolds Averaging for Complex Fluids
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch body_text
+inverted 0
+status collapsed
+
+\begin_layout Standard
+In recent decades, rheologists and soft matter physicists have made remarkable
+ progress in building constitutive equations that connect the microscopic
+ structure of a material to its bulk flow behavior.
+ At one point, microscopically-derived constitutive models were only available
+ for very simple non-Newtonian fluids, such as dilute suspensions of hard
+ spheres, droplets, and polymers.
+ Today, however, microscopically-derived constitutive models are available
+ for all manner of complex fluids, including entangled linear polymers 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-26"
+literal "false"
+
+\end_inset
+
+, wormlike micelles 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-56"
+literal "false"
+
+\end_inset
+
+, dense suspensions 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-54"
+literal "false"
+
+\end_inset
+
+, yield stress fluids 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-28"
+literal "false"
+
+\end_inset
+
+, and even more exotic materials like entangled telechelic star polymers
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-29"
+literal "false"
+
+\end_inset
+
+.
+ In principal, these models are useful for directly modeling industrially
+ relevant fluids under industrially relevant flow conditions, but in practice
+ this is not always true - many industrially relevant complex fluids (e.g.
+ drilling muds, fracking fluids, emulsions, etc.) are processed at high Reynolds
+ numbers.
+\end_layout
+
+\begin_layout Standard
+Typical bench-scale rheology experiments are not always adequate for predicing
+ a material's rheology at high Reynolds numbers.
+ For example, when processing a dense suspension, the particle loading is
+ chosen to be as high as possible without jamming under the desired flow
+ conditions.
+ However, the critical shear rate for jamming under steady shear flow conditions
+ (as might be measured in a laboratory setting) can not be used to predict
+ the critical flow rate for jamming under turbulent flow conditions.
+ In a turbulent flow, the chaotic 
+\begin_inset Quotes eld
+\end_inset
+
+fluctuations
+\begin_inset Quotes erd
+\end_inset
+
+ will lead to regions of flow becoming locally jammed, which can then percolate
+ a jamming transition across the whole system!
+\end_layout
+
+\begin_layout Standard
+In a sense, a turbulent flow imparts an additional level of 
+\begin_inset Quotes eld
+\end_inset
+
+microstructure
+\begin_inset Quotes erd
+\end_inset
+
+ to the fluid at length-scales and time-scales much smaller and much faster
+ than those of the overall process.
+ This separation of scales makes direct numerical simulation impractical
+ - ideally, one would prefer to treat the turbulence itself as an additional
+ level of micostructure to be averaged out.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0col%
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Turbulence.png
+	lyxscale 28
+	scale 28.5
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Turbuelence"
+
+\end_inset
+
+Turbulence as an additional layer of microstructure.
+ Cartoon shows a polymer-based complex fluid as an example.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+The notion of turbulence as an additional level of microstructure (c.f.
+ Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Turbuelence"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+) is used extensively for modeling Newtonian fluids at high Reynolds numbers
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-28-1,key-30,key-31"
+literal "false"
+
+\end_inset
+
+, but at this point Reynolds-averaged constitutive models for complex fluids
+ are mostly limited to simple approximations of simple fluids, like the
+ FENE-P model for dilute polymer solutions 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-32"
+literal "false"
+
+\end_inset
+
+.
+ The process of constructing Reynolds averaged constitutive equations is
+ difficult in practice but straightforward in principal; just as particle-scale
+ constitutive equations rely on closure approximations informed by particle-base
+d simulations, Reynolds-averaged constitutive equations rely on closure
+ approximations informed by direct numerical simulation of the particle-scale
+ constitutive equation in simple turbulent flows.
+\end_layout
+
+\begin_layout Standard
+As a starting point on this project, I would like to develop Reynolds-averaged
+ constitutive equations for dense suspensions, leaning recent models I helped
+ develop during my postdoc 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-54,key-55"
+literal "false"
+
+\end_inset
+
+ to describe microstructure evolution at the particle-scale.
+ These dense suspension models are, in my view, the first to contain sufficient
+ microscopic detail to be useful for turbulent flow modeling: they have
+ been successfully validated in reversing flows, shear-jamming flows, and
+ flows with unsteady perturbations 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-54,key-55"
+literal "false"
+
+\end_inset
+
+.
+ Immediate applications for a Reynolds-averaged extension could include
+ modeling of drilling muds, industrial concrete mixers, mudslides, and more.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+3.
+ Ecological modeling
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch body_text
+inverted 0
+status collapsed
+
+\begin_layout Standard
+The gypsy moth (Lepidoptera: Lymantriidae) is an invasive species that can
+ cause enormous damage to ecosystems through defoliation of hardwood trees
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-33"
+literal "false"
+
+\end_inset
+
+.
+ The moth was originally native to Europe, but was introduce to Massachusetts
+ around 1870, whereafter it began to spread westwards 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-32-1"
+literal "false"
+
+\end_inset
+
+.
+ In the early days, it was difficult to contain the spread of the gypsy
+ moth population - there were few natural predators, and species-specific
+ pathogens (e.g.
+ Lymantria dispar multicapsid nuclear polyhedrosis virus or LdMNPV) are
+ not a strong control method unless the moth population is already moderately
+ high 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-33-1"
+literal "false"
+
+\end_inset
+
+.
+ In this respect, viral controls were (and still are) helpful in the short
+ term but not viable as a long-term control measure.
+\begin_inset Branch hidden
+inverted 0
+status collapsed
+
+\begin_layout Standard
+The transmission mechanism of LdMNPV is very interesting and poorly suited
+ to standard 
+\begin_inset Quotes eld
+\end_inset
+
+compartment models
+\begin_inset Quotes erd
+\end_inset
+
+ of disease transmission (like the SIR model).
+ After infecting a host caterpillar, the virus causes the caterpillar to
+ climb to the top of a tree, whereafter the host's body will eventually
+ disintegrate and the virus will be dispersed through the surrounding foliage.
+ If another caterpillar consumes the contaminated foliage, it will suffer
+ the same fate and the cycle will continue.
+ When the caterpillars are present in high densities, this is a highly efficient
+ transmission mechanism.
+ At lower densities, however, the virus does not persist long enough (or
+ disperse far enough) to be effective.
+ The well-defined time-delays between infection and transmission mean that
+ LdMNPV is best described by itime since infection' models, which are now
+ in the pyross library...
+\end_layout
+
+\end_inset
+
+ Pathogens that are not species specific, like baculoviridae, can also be
+ useful for short-term control of major outbreaks.
+\end_layout
+
+\begin_layout Standard
+Today, the gypsy moth population continues to spread but it now poses a
+ greatly reduced long-term risk to natural habitats, primarily due to a
+ species-specific fungus from Japan (Entomophaga maimaiga) that was first
+ established in New York in the late 1980s 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-34"
+literal "false"
+
+\end_inset
+
+.
+ Unlike the viral pathogen LdMNPV, the fungal spores can persist in the
+ environment for years, making it effective for long-term population control
+ even when the moth population is low.
+ At the leading edge of the gypsy moth invasion, however, this fungus is
+ not yet established in the environment and there is still an abundance
+ of foliage and an absence of natural predators.
+ In the very long term, both the gypsy moth and its fungal pathogen will
+ inevitably establish themselves across North America, and the fungal pathogen
+ will keep population levels in check.
+ But to reach this final state, what control measures best balance the total
+ damage to our ecosystems against the total cost of containment? The question
+ of optimal control is still an ongoing area of research.
+\end_layout
+
+\begin_layout Standard
+To that end, I would like to use sophisticated new epidemic modeling tools
+ (like those in the pyRoss library I worked on for COVID-19 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-19,key-20,key-21"
+literal "false"
+
+\end_inset
+
+) to study optimal control measures in systems involving invasive species
+ and two complementary control pathogens: one with a long persistence time
+ but a low reproduction rate (e.g.
+ the fungus) and another with a high reproduction rate but a low persistence
+ time (e.g.
+ the virus).
+ The gypsy moth and its pathogens are an appealing system for a first applicatio
+n, but I believe that the general modeling framework may prove interesting
+ for other invasive species, where long-term biological control measures
+ are still a subject of active research (e.g.
+ cane toads, emerald ash borers, etc).
+\end_layout
+
+\begin_layout Standard
+A cartoon describing an idealized version of this problem with one spatial
+ dimension is shown in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:moths"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ At position 
+\begin_inset Formula $x=0$
+\end_inset
+
+, the moth and its fungus are both endemic, and neither poses a long-term
+ threat to the native habitat.
+ At position 
+\begin_inset Formula $x=1$
+\end_inset
+
+, neither the moth nor its fungus are present.
+ The leading edge of the moth invasion occurs around 
+\begin_inset Formula $x=0.4$
+\end_inset
+
+, where the virus is being introduced (and reproduced by the moths themselves)
+ to slow the invasion.
+ This is, in a sense, a kind of multi-component reaction/diffusion problem,
+ except the reactions and diffusion are biological processes with distinct
+ kinetics and time-delays particular to the system of interest.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figure_3.eps
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:moths"
+
+\end_inset
+
+A cartoon figure for the spread of gypsy moths across a 1D landscape in
+ the presence of fungal and viral control measures.
+ Viruses are introduced (and reproduced) at the leading edge of the moth
+ population to slow the spread, while a fungus trails the leading edge to
+ keep the moth population in check long term.
+ Defoliation (and the damage thereof) is primarily localized to the leading
+ edge of the invasion.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+literal "false"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D
+\series default
+., M.
+ Cromer, G.
+ H.
+ Fredrickson, and L.
+ G.
+ Leal.
+ "Shear banding predictions for the two-fluid Rolie-Poly model." Journal
+ of Rheology 60, no.
+ 5 (2016): 927-951.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-50"
+literal "false"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D
+\series default
+., G.
+ H.
+ Fredrickson, and L.
+ G.
+ Leal.
+ "Does shear induced demixing resemble a thermodynamically driven instability?."
+ Journal of Rheology 63.2 (2019): 335-359.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-51"
+literal "false"
+
+\end_inset
+
+Boudara, V., 
+\series bold
+J.
+ D.
+ Peterson
+\series default
+, L.
+ G.
+ Leal, and D.
+ J.
+ Read.
+ "Nonlinear rheology of polydisperse blends of entangled linear polymers:
+ Rolie-Double-Poly models." Journal of Rheology 63, no.
+ 1 (2019): 71-91.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-52"
+literal "false"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D.
+
+\series default
+ "Shear Induced Demixing in Polymer Melts and Solutions." PhD diss., University
+ of California, Santa Barbara, 2018.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-53"
+literal "false"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D.
+\series default
+, G.
+ H.
+ Fredrickson, and L.
+ G.
+ Leal.
+ "Shear Induced Demixing in Bidisperse and Polydisperse Polymer Blends:
+ Predictions From a Multi-Fluid Model." accepted for publication, Journal
+ of Rheology (2020)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-54"
+literal "false"
+
+\end_inset
+
+Gillissen, J.J., C.
+ Ness, 
+\series bold
+J.D.
+
+\series default
+ 
+\series bold
+Peterson
+\series default
+, H.
+ J.
+ Wilson, and M.
+ E.
+ Cates, 2019.
+ Constitutive model for time-dependent flows of shear-thickening suspensions.
+ Physical Review Letters, 123(21), p.214504.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-55"
+literal "false"
+
+\end_inset
+
+Gillissen, J.
+ J.
+ J., C.
+ Ness, 
+\series bold
+J.
+ D.
+ Peterson
+\series default
+, H.
+ J.
+ Wilson, and M.
+ E.
+ Cates.
+ "Constitutive model for shear-thickening suspensions: Predictions for steady
+ shear with superposed transverse oscillations." Journal of Rheology 64,
+ no.
+ 2 (2020): 353-365.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-56"
+literal "false"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D
+\series default
+.
+ and M.
+ E.
+ Cates, 
+\begin_inset Quotes eld
+\end_inset
+
+A full-chain tube-based constitutive model for living linear polymers.
+\begin_inset Quotes erd
+\end_inset
+
+ accepted for publication, Journal of Rheology (2020)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-57"
+literal "false"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D
+\series default
+.
+ and M.
+ E.
+ Cates, 
+\begin_inset Quotes eld
+\end_inset
+
+Constitutive Models for Living Polymers Beyond the fast-breaking Limit
+\begin_inset Quotes erd
+\end_inset
+
+, pending approval from industry sponsor for submission to Journal of Rheology.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-11"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D.
+
+\series default
+ and L.
+ G.
+ Leal, 
+\begin_inset Quotes eld
+\end_inset
+
+The 'Living Rolie Poly' model for flow-induced scission in wormlike micelles
+\begin_inset Quotes erd
+\end_inset
+
+, manuscript in preparation.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-15"
+
+\end_inset
+
+Coakley, S.
+ M., H.
+ Scherm, and S.
+ Chakraborty.
+ "Climate change and plant disease management." Annual review of phytopathology
+ 37.1 (1999): 399-426.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-16"
+
+\end_inset
+
+Bebber, D.
+ P., T.
+ Holmes, and S.
+ J.
+ Gurr.
+ "The global spread of crop pests and pathogens." Global Ecology and Biogeography
+ 23.12 (2014): 1398-1407.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-17"
+
+\end_inset
+
+Vanbergen, A.
+ J., and the Insect Pollinators Initiative.
+ "Threats to an ecosystem service: pressures on pollinators." Frontiers in
+ Ecology and the Environment 11.5 (2013): 251-259.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-18"
+
+\end_inset
+
+Goers, L., J.
+ Lawson, and E.
+ Garen.
+ "Economic drivers of tropical deforestation for agriculture." Managing Forest
+ Carbon in a Changing Climate.
+ Springer, Dordrecht, 2012.
+ 305-320.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-19"
+
+\end_inset
+
+Adhikari, R., et al [
+\series bold
+J.
+ D.
+ Peterson
+\series default
+].
+ "Inference, prediction and optimization of non-pharmaceutical interventions
+ using compartment models: the PyRoss library." arXiv preprint arXiv:2005.09625
+ (2020).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-20"
+
+\end_inset
+
+
+\series bold
+Peterson, J.
+ D.
+
+\series default
+ and R.
+ Adhikari, 
+\begin_inset Quotes eld
+\end_inset
+
+Efficient and flexible methods for time since infection models.
+\begin_inset Quotes erd
+\end_inset
+
+ manuscript in preparation
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-21"
+
+\end_inset
+
+Guioth, J., 
+\series bold
+J.
+ D.
+ Peterson
+\series default
+, R.
+ Singh, and R.
+ Adhikari, 
+\begin_inset Quotes eld
+\end_inset
+
+Inference and forecasting for epidemic models with time-since-infection
+ disease dynamics.
+\begin_inset Quotes erd
+\end_inset
+
+ manuscript in preparation
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-22"
+
+\end_inset
+
+Kim, S., and J.
+ M.
+ Dealy.
+ "Gross melt fracture of polyethylene.
+ I: A criterion based on tensile stress." Polymer Engineering & Science 42.3
+ (2002): 482-494.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-23"
+
+\end_inset
+
+Musil, J., and M.
+ Zatloukal.
+ "Historical review of die drool phenomenon in plastics extrusion." Polymer
+ Reviews 54.1 (2014): 139-184.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-26"
+
+\end_inset
+
+Likhtman, A.
+ E., and R.
+ S.
+ Graham.
+ "Simple constitutive equation for linear polymer melts derived from molecular
+ theory: Rolie–Poly equation." Journal of Non-Newtonian Fluid Mechanics 114.1
+ (2003): 1-12.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-28"
+
+\end_inset
+
+Fielding, S.
+ M.
+ "Elastoviscoplastic rheology and aging in a simplified soft glassy constitutive
+ model." Journal of Rheology 64.3 (2020): 723-738.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-29"
+
+\end_inset
+
+Boudara, V.
+ A.
+ H.
+ and D.
+ J.
+ Read.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Stochastic and preaveraged nonlinear rheology models for entangled telechelic
+ star polymers.
+\begin_inset Quotes erd
+\end_inset
+
+ Journal of Rheology 61, 339 (2017)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-30"
+
+\end_inset
+
+Panda, J.
+ P.
+ "A review of pressure strain correlation modeling for Reynolds stress models."
+ Proceedings of the Institution of Mechanical Engineers, Part C: Journal
+ of Mechanical Engineering Science 234.8 (2020): 1528-1544.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-31"
+
+\end_inset
+
+Nallasamy, M.
+ "Turbulence models and their applications to the prediction of internal
+ flows: a review." Computers & Fluids 15.2 (1987): 151-194.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-28-1"
+
+\end_inset
+
+Speziale, C.
+ G.
+ "Turbulence modeling for time-dependent RANS and VLES: a review." AIAA journal
+ 36.2 (1998): 173-184.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-32"
+
+\end_inset
+
+Iaccarino, G., E.
+ Shaqfeh, and Y.
+ Dubief.
+ "Reynolds-averaged modeling of polymer drag reduction in turbulent flows."
+ Journal of Non-Newtonian Fluid Mechanics 165.7-8 (2010): 376-384.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-33"
+
+\end_inset
+
+Davidson, C.
+ B., K.
+ W.
+ Gottschalk, and J.
+ E.
+ Johnson.
+ "Tree mortality following defoliation by the European gypsy moth (Lymantria
+ dispar L.) in the United States: a review." Forest Science 45.1 (1999): 74-84.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-32-1"
+
+\end_inset
+
+Elkinton, J.
+ S., and A.
+ M.
+ Liebhold.
+ "Population dynamics of gypsy moth in North America." Annual review of entomolog
+y 35.1 (1990): 571-596.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-33-1"
+
+\end_inset
+
+Reilly, J.
+ R., and A.
+ E.
+ Hajek.
+ "Density-dependent resistance of the gypsy moth Lymantria dispar to its
+ nucleopolyhedrovirus, and the consequences for population dynamics." Oecologia
+ 154.4 (2008): 691-701.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-34"
+
+\end_inset
+
+Andreadis, T.
+ G.
+ and R.
+ M.
+ Weseloh.
+ "Discovery of Entomophaga maimaiga in North American gypsy moth, Lymantria
+ dispar." Proceedings of the National Academy of Sciences 87.7 (1990): 2461-2465.
+\end_layout
+
+\end_body
+\end_document
